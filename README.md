@@ -25,7 +25,7 @@ I’m interested in Golang, A passionate Backend developer from Indramayu, Indon
 - 📫 You can to reach me in my email at syihabuddin.affandi@gmail.com
 
 Connect with me: <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syihabuddin-affandi/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/affandis)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syihabuddin-affandi/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/affandis_)
 
 
 ### Tech Stack
